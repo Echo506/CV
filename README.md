@@ -40,7 +40,3 @@ Here I share 💻 projects, ✨aspirations as a 👨‍💻 Systems Engineer, �
 | 🇧🇷 **Portuguese** | [Content and learning in Portuguese.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/Portugues.md) |
 | 🇨🇳 **Chinese** | [My progress and resources in the Chinese language.](https://github.com/Echo506/CV/blob/463067d0a1b27e437d49d4801597a46c332b3337/Chinesse.md) |
 ```
-
-
-
-
